@@ -10,3 +10,4 @@
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,openai.com
+DOMAIN,auth.openai.com
