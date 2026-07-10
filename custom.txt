@@ -10,4 +10,5 @@
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,jetbrains.com
 DOMAIN,auth.openai.com
