@@ -9,4 +9,4 @@
 # SRC-PORT,7777
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,checkip.org
-DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,openai.com
